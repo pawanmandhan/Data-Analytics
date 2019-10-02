@@ -25,5 +25,7 @@ plt.show()
 
 ````
 
-![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/2.%20For%20Qualitative%20Categrical%20Variables/Pie%20Charts/pie%20charts%20using%20python/pie_Chart.PNG)
+![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v1/Functional%20Interface-New%20Features_PART1-1.png?raw=true)
+
+![alt text](https://github.com/pawanmandhan/1-Java8-LambdaExpressionandFunctionalInterface/blob/master/img/v1/Functional%20Interface-New%20Features_PART1-2.png?raw=true)
 
